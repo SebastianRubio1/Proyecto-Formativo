@@ -11,7 +11,7 @@
 }
 body{
     text-align: center;
-    padding-top:70px;
+    padding-top: 1.5%;
     background-image: url(../images/Captura\ desde\ 2023-09-07\ 08-58-40.png);
     
 }
@@ -71,3 +71,10 @@ li > a{
     border-radius: 1rem;
     font-family: 'Happy Monkey', cursive;
 }
+
+.ir{
+    margin-left: 87%;
+    margin-right: 5%;
+       
+}
+
