@@ -9,7 +9,7 @@
     color: #ffffff;
     box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
 }
-body{
+.body{
     text-align: center;
     padding-top: 1.5%;
     background-image: url(../images/Captura\ desde\ 2023-09-07\ 08-58-40.png);
@@ -65,7 +65,6 @@ body{
     background-color: #c2d0d4;
     position: sticky;
     top: 0;
-    font-weight: 500;
     box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
     margin: 0% 2% 0% 2%;   
     border-radius: 1rem;
@@ -73,8 +72,9 @@ body{
 }
 
 .ir{
-    margin-left: 87%;
-    margin-right: 5%;
-       
+    margin-left: 75%;
+    padding-right:10% ;
+    margin-right: 10%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
 }
-
