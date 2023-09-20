@@ -81,3 +81,15 @@
 
     
 }
+.productos{
+    justify-content: space-around;
+    display: flex;
+}
+.text_productos{
+    padding-top: 5%;
+    margin-top: 5%;
+}
+.img_productos{
+    border-radius: 1.5rem 3rem 1.5rem 3rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}

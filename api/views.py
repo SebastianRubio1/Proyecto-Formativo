@@ -32,12 +32,10 @@ def create_account(request):
 
 
 def administrador(request):
-    return render(request, 'Administrador.html')
+    return render(request, 'Administrador/Administrador.html')
 
 def cliente(request):
-    return render(request, 'Cliente.html')
+    return render(request, 'Cliente/Cliente.html')
 
-def usuario(request):
-    return render(request, 'Usuario.html')
 
 
