@@ -83,7 +83,8 @@
 }
 .productos{
     justify-content: space-around;
-    display: flex;
+    
+
 }
 .text_productos{
     padding-top: 5%;
